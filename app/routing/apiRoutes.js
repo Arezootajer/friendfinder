@@ -11,6 +11,7 @@
     // The modal should display both the name and picture of the closest match.
   
 var userData = require("../data/friends");
+var path = require("path");
 
 module.exports = function(app) {
 
