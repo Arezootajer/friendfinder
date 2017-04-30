@@ -3,7 +3,7 @@
 var userData = [
   {
     "name": "Ahmed",
-    "photo": "pic1",
+    "photo": "http://absorbmarketing.com/wp-content/uploads/2015/01/Picture-of-person.png",
     "scores":[
         5,
       	1,
@@ -19,7 +19,7 @@ var userData = [
   },
   {
     "name": "sara",
-    "photo": "pic2",
+    "photo": "https://tribzap2it.files.wordpress.com/2015/07/person-of-interest-season-4-sarah-shahi-cbs.jpg",
     "scores":[
         3,
         2,
@@ -34,8 +34,8 @@ var userData = [
     ]
   },
   {
-    "name": "zoey",
-    "photo": "pic3",
+    "name": "kayla",
+    "photo": "http://engineering.unl.edu/images/uploads/Kayla.jpg",
     "scores":[
         1,
         1,
